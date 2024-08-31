@@ -103,7 +103,7 @@ SOFTWARE.
                             <a href="{{ route('auth.login.index') }}" class="btn btn-warning"><i class="fas fa-key mr-1"></i> Existing User</a>
                         </div>
                         <div class="mt-5"><strong>Copyright &copy; {{ config('site.name') }} {{ date('Y') }}</strong></div>
-                        <div class="text-muted" style="font-size:13px;"><strong>Powered by <a href="https://github.com/FoxxoSnoot/laravel-roblox-clone" target="_blank">Laravel Roblox Clone</a></strong></div>
+                        <div class="text-muted" style="font-size:13px;"><strong>Powered by <a href="https://github.com/RobinShinny/laravel-roblox-clone" target="_blank">Laravel Roblox Clone</a></strong></div>
                     </div>
                     <div class="col-md-4 hide-sm">
                         <img src="{{ config('site.icon') }}">
